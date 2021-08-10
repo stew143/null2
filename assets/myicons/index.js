@@ -1,0 +1,1 @@
+export { faGuacamole } from "./fa-guacamole";
